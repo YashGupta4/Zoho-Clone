@@ -88,7 +88,8 @@ For any inquiries, feel free to contact:
 
 Yash Gupta - [info.guptayash@gmail.com](mailto:info.guptayash@gmail.com)
 
-Project Link: [https://github.com/YashGupta4/Zoho-Clone](https://github.com/YashGupta4/Zoho-Clone)
+Project Link: [https://zoho-invoice-clone.netlify.app/](https://zoho-invoice-clone.netlify.app/)
+
 
 ## 🙏 Acknowledgements
 
