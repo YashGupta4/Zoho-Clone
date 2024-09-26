@@ -1,0 +1,37 @@
+/* Navbar container padding */
+.navbar-container {
+  padding: 10px 20px;
+}
+
+/* Custom styling for the logo */
+.navbar-logo {
+  height: 40px;
+  width: auto;
+}
+
+/* Styling for the vertical divider */
+.navbar-divider {
+  height: 40px; /* Match the height of the logo or button */
+  width: 1px;
+  background-color: #ccc; /* Light gray color for the divider */
+  margin: 0 15px;
+}
+
+/* Navbar title styling */
+.navbar-title {
+  font-weight: bold;
+  font-size: 1.25rem; /* Main title size */
+}
+
+/* Subtitle styling */
+.navbar-subtitle {
+  font-size: 0.85rem; /* Smaller size for the subtitle */
+  color: #6c757d; /* Bootstrap text-muted color */
+}
+
+/* "Check out Zoho Invoice" styling */
+.navbar-zoho {
+  font-size: 0.85rem; /* Same size as subtitle */
+  color: #007bff; /* Bootstrap primary color for links */
+  cursor: pointer; /* Change cursor to pointer */
+}
